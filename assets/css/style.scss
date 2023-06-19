@@ -280,7 +280,8 @@ p:empty {
   display: none;
 }
 
-small {
+small,
+p.small {
   font-size: 85%;
 }
 

@@ -50,3 +50,4 @@ Thumbs.db
 *.mov
 *.wmv
 
+/assets/css/.sass-cache/
